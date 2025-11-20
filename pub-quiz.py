@@ -4,15 +4,21 @@ print("Welcome to the Pub Quiz!")
 # List of questions, options, and answers
 quiz_questions = [
     {
-        "question": "What is the capital of France?",
-        "options": ["A) London", "B) Paris", "C) Berlin", "D) Madrid"],
-        "answer": "B"
+        "question": "What is the purpose of Life?",
+        "options": ["A) Happiness", "B) Money", "C) Music", "D) Clothes"],
+        "answer": "A"
     },
     {
-        "question": "What is 2 + 2?",
-        "options": ["A) 3", "B) 4", "C) 5", "D) 22"],
-        "answer": "B"
+        "question": "Whos the current president of America?",
+        "options": ["A) Donald Duck", "B) Donald Glover", "C) Donald Trump", "D) Tony Montana"],
+        "answer": "C"
     },
+    {
+        "question": "What is the square root of 64?",
+        "options": ["A) 3", "B) 64", "C) 32", "D) 8"],
+        "answer": "D"
+    },
+    
     # Learners can add more questions here following the same structure
 ]
 
